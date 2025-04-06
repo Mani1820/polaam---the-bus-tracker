@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648379784315",
+    "project_id": "polaam-45556",
+    "storage_bucket": "polaam-45556.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648379784315:android:3136db196acc14483b56de",
+        "android_client_info": {
+          "package_name": "com.example.green_route"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKW-7d9B2zbr7hBYRoBHD7ovyla2GU_QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648379784315:android:265c14b80ea68b693b56de",
+        "android_client_info": {
+          "package_name": "com.example.polam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKW-7d9B2zbr7hBYRoBHD7ovyla2GU_QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
